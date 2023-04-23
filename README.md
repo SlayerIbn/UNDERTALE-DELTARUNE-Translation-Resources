@@ -7,7 +7,6 @@ I will updating eventually this repository with new stuff.
 For any suggestion, make an Issue in the Issues tab.
 
 Contributors:
-Matiw172
-MrDiman
+Matiw172 and MrDiman
 
 Any use of this repository must be credited to the original creators.
