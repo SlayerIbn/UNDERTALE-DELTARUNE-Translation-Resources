@@ -405,16 +405,16 @@ while (n <= stringpos)
                     letterx -= 3
                 if (myletter == "!")
                     letterx -= 4
-                if (myletter == "s" || myletter == "j")
+                if (myletter == "s" || myletter == "j" || myletter == "ș" || myletter == "ś")
                     letterx -= 1
             }
             else if (myfont == fnt_papyrus) // Changes for some letters
             {
-                if (myletter == "D" || myletter == "M" || myletter == "C" || myletter == "A" || myletter == "Á" || myletter == "À" || myletter == "Â" || myletter == "H" || myletter == "B" || myletter == "G" || myletter == "Ã" || myletter == "Ä" || myletter == "Å" || myletter == "Ç")
+                if (myletter == "D" || myletter == "M" || myletter == "C" || myletter == "A" || myletter == "Á" || myletter == "À" || myletter == "Â" || myletter == "H" || myletter == "B" || myletter == "G" || myletter == "Ã" || myletter == "Ä" || myletter == "Å" || myletter == "Ă" || myletter == "Ç")
                     letterx += 1
                 if (myletter == "Q")
                     letterx += 3
-                if (myletter == "L" || myletter == "K" || myletter == "T" || myletter == "F" || myletter == "J")
+                if (myletter == "L" || myletter == "K" || myletter == "T" || myletter == "F" || myletter == "J" || myletter == "Ț")
                     letterx -= 1
                 if (myletter == "!" || myletter == "¡" || myletter == "?" || myletter == "»" || myletter == ".")
                     letterx -= 3
